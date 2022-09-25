@@ -1,0 +1,537 @@
+[
+	{
+		"aya_id": 5801,
+		"aya_number": 1,
+		"aya_text": "اِذَا الشَّمْسُ كُوِّرَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "Apabila matahari digulung,",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5802,
+		"aya_number": 2,
+		"aya_text": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila bintang-bintang berjatuhan,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 12
+			},
+			{
+				"class": "ikhfa",
+				"start": 21,
+				"end": 25
+			}
+		]
+	},
+	{
+		"aya_id": 5803,
+		"aya_number": 3,
+		"aya_text": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila gunung-gunung dihancurkan,",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5804,
+		"aya_number": 4,
+		"aya_text": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila unta-unta yang bunting ditinggalkan (tidak terurus),",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5805,
+		"aya_number": 5,
+		"aya_text": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila binatang-binatang liar dikumpulkan,",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5806,
+		"aya_number": 6,
+		"aya_text": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila lautan dipanaskan,",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5807,
+		"aya_number": 7,
+		"aya_text": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila roh-roh dipertemukan (dengan tubuh), ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 12
+			}
+		]
+	},
+	{
+		"aya_id": 5808,
+		"aya_number": 8,
+		"aya_text": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, ",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5809,
+		"aya_number": 9,
+		"aya_text": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "karena dosa apa dia dibunuh? ",
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 10,
+				"end": 12
+			},
+			{
+				"class": "iqlab",
+				"start": 12,
+				"end": 13
+			},
+			{
+				"class": "ikhfa",
+				"start": 13,
+				"end": 18
+			}
+		]
+	},
+	{
+		"aya_id": 5810,
+		"aya_number": 10,
+		"aya_text": "وَاِذَا الصُّحُفُ نُشِرَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "Dan apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar, ",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5811,
+		"aya_number": 11,
+		"aya_text": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila langit dilenyapkan, ",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 15,
+				"end": 17
+			}
+		]
+	},
+	{
+		"aya_id": 5812,
+		"aya_number": 12,
+		"aya_text": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila neraka Jahim dinyalakan, ",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5813,
+		"aya_number": 13,
+		"aya_text": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan apabila surga didekatkan, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 13,
+				"end": 15
+			}
+		]
+	},
+	{
+		"aya_id": 5814,
+		"aya_number": 14,
+		"aya_text": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "setiap jiwa akan mengetahui apa yang telah dikerjakannya. ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 13,
+				"end": 18
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 19,
+				"end": 22
+			}
+		]
+	},
+	{
+		"aya_id": 5815,
+		"aya_number": 15,
+		"aya_text": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "Aku bersumpah demi bintang-bintang,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			},
+			{
+				"class": "ghunnah",
+				"start": 23,
+				"end": 25
+			}
+		]
+	},
+	{
+		"aya_id": 5816,
+		"aya_number": 16,
+		"aya_text": "الْجَوَارِ الْكُنَّسِۙ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "yang beredar dan terbenam, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 16,
+				"end": 18
+			}
+		]
+	},
+	{
+		"aya_id": 5817,
+		"aya_number": 17,
+		"aya_text": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "demi malam apabila telah larut, ",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5818,
+		"aya_number": 18,
+		"aya_text": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "dan demi subuh apabila fajar telah menyingsing, ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 7,
+				"end": 8
+			}
+		]
+	},
+	{
+		"aya_id": 5819,
+		"aya_number": 19,
+		"aya_text": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "sesungguhnya (Al-Qur'an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 4
+			},
+			{
+				"class": "ikhfa",
+				"start": 23,
+				"end": 28
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 30,
+				"end": 32
+			}
+		]
+	},
+	{
+		"aya_id": 5820,
+		"aya_number": 20,
+		"aya_text": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "yang memiliki kekuatan, memiliki kedudukan tinggi di sisi (Allah) yang memiliki ‘Arsy,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 15,
+				"end": 19
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
+			}
+		]
+	},
+	{
+		"aya_id": 5821,
+		"aya_number": 21,
+		"aya_text": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "yang di sana (di alam malaikat) ditaati dan dipercaya.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 0,
+				"end": 2
+			},
+			{
+				"class": "ikhfa",
+				"start": 6,
+				"end": 11
+			},
+			{
+				"class": "ghunnah",
+				"start": 11,
+				"end": 13
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 19,
+				"end": 21
+			}
+		]
+	},
+	{
+		"aya_id": 5822,
+		"aya_number": 22,
+		"aya_text": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "Dan temanmu (Muhammad) itu bukanlah orang gila. ",
+		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 15,
+				"end": 20
+			},
+			{
+				"class": "qalqalah",
+				"start": 22,
+				"end": 23
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 26,
+				"end": 28
+			}
+		]
+	},
+	{
+		"aya_id": 5823,
+		"aya_number": 23,
+		"aya_text": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "Dan sungguh, dia (Muhammad) telah melihatnya (Jibril) di ufuk yang terang. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 6,
+				"end": 7
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
+			}
+		]
+	},
+	{
+		"aya_id": 5824,
+		"aya_number": 24,
+		"aya_text": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "Dan dia (Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib.",
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 33,
+				"end": 35
+			}
+		]
+	},
+	{
+		"aya_id": 5825,
+		"aya_number": 25,
+		"aya_text": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "Dan (Al-Qur'an) itu bukanlah perkataan setan yang terkutuk,",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 26,
+				"end": 31
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 34,
+				"end": 36
+			}
+		]
+	},
+	{
+		"aya_id": 5826,
+		"aya_number": 26,
+		"aya_text": "فَاَيْنَ تَذْهَبُوْنَۗ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "maka ke manakah kamu akan pergi?",
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 17,
+				"end": 19
+			}
+		]
+	},
+	{
+		"aya_id": 5827,
+		"aya_number": 27,
+		"aya_text": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "(Al-Qur'an) itu tidak lain adalah peringatan bagi seluruh alam, ",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 21,
+				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 37
+			}
+		]
+	},
+	{
+		"aya_id": 5828,
+		"aya_number": 28,
+		"aya_text": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "(yaitu) bagi siapa di antara kamu yang menghendaki menempuh jalan yang lurus. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "madd-wajib",
+				"start": 9,
+				"end": 11
+			},
+			{
+				"class": "ikhfa",
+				"start": 16,
+				"end": 20
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 25,
+				"end": 30
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 37,
+				"end": 39
+			}
+		]
+	},
+	{
+		"aya_id": 5829,
+		"aya_number": 29,
+		"aya_text": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ ࣖ",
+		"sura_id": 81,
+		"juz_id": 30,
+		"page_number": 586,
+		"translation_aya_text": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan seluruh alam.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 10,
+				"end": 12
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 24,
+				"end": 27
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 29,
+				"end": 34
+			},
+			{
+				"class": "madd-wajib",
+				"start": 37,
+				"end": 39
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 65,
+				"end": 67
+			}
+		]
+	}
+]

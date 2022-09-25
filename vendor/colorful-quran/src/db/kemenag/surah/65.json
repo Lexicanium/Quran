@@ -1,0 +1,773 @@
+[
+	{
+		"aya_id": 5218,
+		"aya_number": 1,
+		"aya_text": "يٰٓاَيُّهَا النَّبِيُّ اِذَا طَلَّقْتُمُ النِّسَاۤءَ فَطَلِّقُوْهُنَّ لِعِدَّتِهِنَّ وَاَحْصُوا الْعِدَّةَۚ وَاتَّقُوا اللّٰهَ رَبَّكُمْۚ  لَا تُخْرِجُوْهُنَّ مِنْۢ بُيُوْتِهِنَّ وَلَا يَخْرُجْنَ اِلَّآ اَنْ يَّأْتِيْنَ بِفَاحِشَةٍ مُّبَيِّنَةٍۗ وَتِلْكَ حُدُوْدُ اللّٰهِ ۗوَمَنْ يَّتَعَدَّ حُدُوْدَ اللّٰهِ فَقَدْ ظَلَمَ نَفْسَهٗ ۗ لَا تَدْرِيْ لَعَلَّ اللّٰهَ يُحْدِثُ بَعْدَ ذٰلِكَ اَمْرًا",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 558,
+		"translation_aya_text": "Wahai Nabi! Apabila kamu menceraikan istri-istrimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) idahnya (yang wajar), dan hitunglah waktu idah itu, serta bertakwalah kepada Allah Tuhanmu. Janganlah kamu keluarkan mereka dari rumahnya dan janganlah (diizinkan) keluar kecuali jika mereka mengerjakan perbuatan keji yang jelas. Itulah hukum-hukum Allah, dan barangsiapa melanggar hukum-hukum Allah, maka sungguh, dia telah berbuat zalim terhadap dirinya sendiri. Kamu tidak mengetahui barangkali setelah itu Allah mengadakan suatu ketentuan yang baru. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ghunnah",
+				"start": 14,
+				"end": 16
+			},
+			{
+				"class": "qalqalah",
+				"start": 34,
+				"end": 35
+			},
+			{
+				"class": "ghunnah",
+				"start": 43,
+				"end": 45
+			},
+			{
+				"class": "madd-wajib",
+				"start": 48,
+				"end": 50
+			},
+			{
+				"class": "ghunnah",
+				"start": 66,
+				"end": 68
+			},
+			{
+				"class": "ghunnah",
+				"start": 81,
+				"end": 83
+			},
+			{
+				"class": "ghunnah",
+				"start": 155,
+				"end": 157
+			},
+			{
+				"class": "iqlab",
+				"start": 161,
+				"end": 163
+			},
+			{
+				"class": "iqlab",
+				"start": 164,
+				"end": 166
+			},
+			{
+				"class": "ghunnah",
+				"start": 175,
+				"end": 177
+			},
+			{
+				"class": "qalqalah",
+				"start": 191,
+				"end": 192
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 201,
+				"end": 204
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 206,
+				"end": 211
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 230,
+				"end": 235
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 243,
+				"end": 245
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 246,
+				"end": 248
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 278,
+				"end": 283
+			},
+			{
+				"class": "qalqalah",
+				"start": 313,
+				"end": 314
+			},
+			{
+				"class": "qalqalah",
+				"start": 340,
+				"end": 341
+			}
+		]
+	},
+	{
+		"aya_id": 5219,
+		"aya_number": 2,
+		"aya_text": "فَاِذَا بَلَغْنَ اَجَلَهُنَّ فَاَمْسِكُوْهُنَّ بِمَعْرُوْفٍ اَوْ فَارِقُوْهُنَّ بِمَعْرُوْفٍ وَّاَشْهِدُوْا ذَوَيْ عَدْلٍ مِّنْكُمْ وَاَقِيْمُوا الشَّهَادَةَ لِلّٰهِ ۗذٰلِكُمْ يُوْعَظُ بِهٖ مَنْ كَانَ يُؤْمِنُ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ ەۗ وَمَنْ يَّتَّقِ اللّٰهَ يَجْعَلْ لَّهٗ مَخْرَجًا ۙ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 558,
+		"translation_aya_text": "Maka apabila mereka telah mendekati akhir idahnya, maka rujuklah (kembali kepada) mereka dengan baik atau lepaskanlah mereka dengan baik dan persaksikanlah dengan dua orang saksi yang adil di antara kamu dan hendaklah kamu tegakkan kesaksian itu karena Allah. Demikianlah pengajaran itu diberikan bagi orang yang beriman kepada Allah dan hari akhirat. Barangsiapa bertakwa kepada Allah niscaya Dia akan membukakan jalan keluar baginya, ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 25,
+				"end": 27
+			},
+			{
+				"class": "ghunnah",
+				"start": 43,
+				"end": 45
+			},
+			{
+				"class": "ghunnah",
+				"start": 76,
+				"end": 78
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 90,
+				"end": 95
+			},
+			{
+				"class": "qalqalah",
+				"start": 117,
+				"end": 118
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 119,
+				"end": 124
+			},
+			{
+				"class": "ikhfa",
+				"start": 125,
+				"end": 129
+			},
+			{
+				"class": "ikhfa",
+				"start": 192,
+				"end": 197
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 249,
+				"end": 254
+			},
+			{
+				"class": "qalqalah",
+				"start": 271,
+				"end": 272
+			}
+		]
+	},
+	{
+		"aya_id": 5220,
+		"aya_number": 3,
+		"aya_text": "وَّيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُۗ وَمَنْ يَّتَوَكَّلْ عَلَى اللّٰهِ فَهُوَ حَسْبُهٗ ۗاِنَّ اللّٰهَ بَالِغُ اَمْرِهٖۗ قَدْ جَعَلَ اللّٰهُ لِكُلِّ شَيْءٍ قَدْرًا ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 558,
+		"translation_aya_text": "dan Dia memberinya rezeki dari arah yang tidak disangka-sangkanya. Dan barangsiapa bertawakal kepada Allah, niscaya Allah akan mencukupkan (keperluan)nya. Sesungguhnya Allah melaksanakan urusan-Nya. Sungguh, Allah telah mengadakan ketentuan bagi setiap sesuatu. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 46,
+				"end": 51
+			},
+			{
+				"class": "ghunnah",
+				"start": 95,
+				"end": 97
+			},
+			{
+				"class": "qalqalah",
+				"start": 127,
+				"end": 128
+			},
+			{
+				"class": "ikhfa",
+				"start": 157,
+				"end": 162
+			},
+			{
+				"class": "qalqalah",
+				"start": 162,
+				"end": 163
+			}
+		]
+	},
+	{
+		"aya_id": 5221,
+		"aya_number": 4,
+		"aya_text": "وَالّٰۤـِٔيْ يَىِٕسْنَ مِنَ الْمَحِيْضِ مِنْ نِّسَاۤىِٕكُمْ اِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلٰثَةُ اَشْهُرٍۙ وَّالّٰۤـِٔيْ لَمْ يَحِضْنَۗ وَاُولَاتُ الْاَحْمَالِ اَجَلُهُنَّ اَنْ يَّضَعْنَ حَمْلَهُنَّۗ وَمَنْ يَّتَّقِ اللّٰهَ يَجْعَلْ لَّهٗ مِنْ اَمْرِهٖ يُسْرًا ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 558,
+		"translation_aya_text": "Perempuan-perempuan yang tidak haid lagi (menopause) di antara istri-istrimu jika kamu ragu-ragu (tentang masa idahnya) maka idahnya adalah tiga bulan; dan begitu (pula) perempuan-perempuan yang tidak haid. Sedangkan perempuan-perempuan yang hamil, waktu idah mereka itu ialah sampai mereka melahirkan kandungannya. Dan barangsiapa bertakwa kepada Allah, niscaya Dia menjadikan kemudahan baginya dalam urusannya. ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 42,
+				"end": 47
+			},
+			{
+				"class": "madd-wajib",
+				"start": 50,
+				"end": 53
+			},
+			{
+				"class": "qalqalah",
+				"start": 70,
+				"end": 71
+			},
+			{
+				"class": "ghunnah",
+				"start": 88,
+				"end": 90
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 107,
+				"end": 109
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 110,
+				"end": 112
+			},
+			{
+				"class": "ghunnah",
+				"start": 172,
+				"end": 174
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 178,
+				"end": 183
+			},
+			{
+				"class": "ghunnah",
+				"start": 199,
+				"end": 201
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 208,
+				"end": 213
+			},
+			{
+				"class": "qalqalah",
+				"start": 230,
+				"end": 231
+			}
+		]
+	},
+	{
+		"aya_id": 5222,
+		"aya_number": 5,
+		"aya_text": "ذٰلِكَ اَمْرُ اللّٰهِ اَنْزَلَهٗٓ اِلَيْكُمْۗ وَمَنْ يَّتَّقِ اللّٰهَ يُكَفِّرْ عَنْهُ سَيِّاٰتِهٖ وَيُعْظِمْ لَهٗٓ اَجْرًا ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 558,
+		"translation_aya_text": "Itulah perintah Allah yang diturunkan-Nya kepada kamu; barangsiapa bertakwa kepada Allah, niscaya Allah akan menghapus kesalahan-kesalahannya dan akan melipatgandakan pahala baginya. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 24,
+				"end": 28
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 30,
+				"end": 34
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 50,
+				"end": 55
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 112,
+				"end": 116
+			},
+			{
+				"class": "qalqalah",
+				"start": 118,
+				"end": 119
+			}
+		]
+	},
+	{
+		"aya_id": 5223,
+		"aya_number": 6,
+		"aya_text": "اَسْكِنُوْهُنَّ مِنْ حَيْثُ سَكَنْتُمْ مِّنْ وُّجْدِكُمْ وَلَا تُضَاۤرُّوْهُنَّ لِتُضَيِّقُوْا عَلَيْهِنَّۗ وَاِنْ كُنَّ اُولَاتِ حَمْلٍ فَاَنْفِقُوْا عَلَيْهِنَّ حَتّٰى يَضَعْنَ حَمْلَهُنَّۚ فَاِنْ اَرْضَعْنَ لَكُمْ فَاٰتُوْهُنَّ اُجُوْرَهُنَّۚ وَأْتَمِرُوْا بَيْنَكُمْ بِمَعْرُوْفٍۚ وَاِنْ تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهٗٓ اُخْرٰىۗ ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 559,
+		"translation_aya_text": "Tempatkanlah mereka (para istri) di mana kamu bertempat tinggal menurut kemampuanmu dan janganlah kamu menyusahkan mereka untuk menyempitkan (hati) mereka. Dan jika mereka (istri-istri yang sudah ditalak) itu sedang hamil, maka berikanlah kepada mereka nafkahnya sampai mereka melahirkan, kemudian jika mereka menyusukan (anak-anak)mu maka berikanlah imbalannya kepada mereka; dan musyawarahkanlah di antara kamu (segala sesuatu) dengan baik; dan jika kamu menemui kesulitan, maka perempuan lain boleh menyusukan (anak itu) untuknya. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 12,
+				"end": 14
+			},
+			{
+				"class": "ikhfa",
+				"start": 32,
+				"end": 36
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 36,
+				"end": 41
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 42,
+				"end": 47
+			},
+			{
+				"class": "qalqalah",
+				"start": 48,
+				"end": 49
+			},
+			{
+				"class": "ghunnah",
+				"start": 76,
+				"end": 78
+			},
+			{
+				"class": "ghunnah",
+				"start": 103,
+				"end": 105
+			},
+			{
+				"class": "ikhfa",
+				"start": 112,
+				"end": 117
+			},
+			{
+				"class": "ghunnah",
+				"start": 117,
+				"end": 119
+			},
+			{
+				"class": "ikhfa",
+				"start": 134,
+				"end": 139
+			},
+			{
+				"class": "ikhfa",
+				"start": 141,
+				"end": 145
+			},
+			{
+				"class": "ghunnah",
+				"start": 159,
+				"end": 161
+			},
+			{
+				"class": "ghunnah",
+				"start": 187,
+				"end": 189
+			},
+			{
+				"class": "ghunnah",
+				"start": 227,
+				"end": 229
+			},
+			{
+				"class": "ghunnah",
+				"start": 241,
+				"end": 243
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 268,
+				"end": 273
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 281,
+				"end": 283
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 284,
+				"end": 286
+			},
+			{
+				"class": "ikhfa",
+				"start": 289,
+				"end": 294
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 321,
+				"end": 325
+			}
+		]
+	},
+	{
+		"aya_id": 5224,
+		"aya_number": 7,
+		"aya_text": "لِيُنْفِقْ ذُوْ سَعَةٍ مِّنْ سَعَتِهٖۗ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهٗ فَلْيُنْفِقْ مِمَّآ اٰتٰىهُ اللّٰهُ ۗ لَا يُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا مَآ اٰتٰىهَاۗ سَيَجْعَلُ اللّٰهُ بَعْدَ عُسْرٍ يُّسْرًا ࣖ ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 559,
+		"translation_aya_text": "Hendaklah orang yang mempunyai keluasan memberi nafkah menurut kemampuannya, dan orang yang terbatas rezekinya, hendaklah memberi nafkah dari harta yang diberikan Allah kepadanya. Allah tidak membebani kepada seseorang melainkan (sesuai) dengan apa yang diberikan Allah kepadanya. Allah kelak akan memberikan kelapangan setelah kesempitan. ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 4,
+				"end": 8
+			},
+			{
+				"class": "qalqalah",
+				"start": 8,
+				"end": 9
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 20,
+				"end": 25
+			},
+			{
+				"class": "ikhfa",
+				"start": 26,
+				"end": 31
+			},
+			{
+				"class": "ikhfa",
+				"start": 43,
+				"end": 48
+			},
+			{
+				"class": "ikhfa",
+				"start": 77,
+				"end": 81
+			},
+			{
+				"class": "qalqalah",
+				"start": 81,
+				"end": 82
+			},
+			{
+				"class": "ghunnah",
+				"start": 84,
+				"end": 86
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 89,
+				"end": 92
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 149,
+				"end": 152
+			},
+			{
+				"class": "qalqalah",
+				"start": 166,
+				"end": 167
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 192,
+				"end": 197
+			}
+		]
+	},
+	{
+		"aya_id": 5225,
+		"aya_number": 8,
+		"aya_text": "وَكَاَيِّنْ مِّنْ قَرْيَةٍ عَتَتْ عَنْ اَمْرِ رَبِّهَا وَرُسُلِهٖ فَحَاسَبْنٰهَا حِسَابًا شَدِيْدًاۙ وَّعَذَّبْنٰهَا عَذَابًا نُّكْرًا ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 559,
+		"translation_aya_text": "Dan betapa banyak (penduduk) negeri yang mendurhakai perintah Tuhan mereka dan rasul-rasul-Nya, maka Kami buat perhitungan terhadap penduduk negeri itu dengan perhitungan yang ketat, dan Kami azab mereka dengan azab yang mengerikan (di akhirat),",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 9,
+				"end": 14
+			},
+			{
+				"class": "ikhfa",
+				"start": 15,
+				"end": 20
+			},
+			{
+				"class": "qalqalah",
+				"start": 73,
+				"end": 74
+			},
+			{
+				"class": "ikhfa",
+				"start": 86,
+				"end": 88
+			},
+			{
+				"class": "ikhfa",
+				"start": 89,
+				"end": 91
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 96,
+				"end": 98
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 100,
+				"end": 102
+			},
+			{
+				"class": "qalqalah",
+				"start": 109,
+				"end": 110
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 122,
+				"end": 124
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 125,
+				"end": 127
+			}
+		]
+	},
+	{
+		"aya_id": 5226,
+		"aya_number": 9,
+		"aya_text": "فَذَاقَتْ وَبَالَ اَمْرِهَا وَكَانَ عَاقِبَةُ اَمْرِهَا خُسْرًا ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 559,
+		"translation_aya_text": "sehingga mereka merasakan akibat yang buruk dari perbuatannya, dan akibat perbuatan mereka, itu adalah kerugian yang besar. ",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5227,
+		"aya_number": 10,
+		"aya_text": "اَعَدَّ اللّٰهُ لَهُمْ عَذَابًا شَدِيْدًا ۖفَاتَّقُوا اللّٰهَ يٰٓاُولِى الْاَلْبَابِۛ الَّذِيْنَ اٰمَنُوْا ۛ قَدْ اَنْزَلَ اللّٰهُ اِلَيْكُمْ ذِكْرًاۙ ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 559,
+		"translation_aya_text": "Allah menyediakan azab yang keras bagi mereka, maka bertakwalah kepada Allah wahai orang-orang yang mempunyai akal! (Yaitu) orang-orang yang beriman. Sungguh, Allah telah menurunkan peringatan kepadamu, ",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 28,
+				"end": 30
+			},
+			{
+				"class": "ikhfa",
+				"start": 31,
+				"end": 33
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 62,
+				"end": 65
+			},
+			{
+				"class": "qalqalah",
+				"start": 111,
+				"end": 112
+			},
+			{
+				"class": "ikhfa",
+				"start": 116,
+				"end": 120
+			}
+		]
+	},
+	{
+		"aya_id": 5228,
+		"aya_number": 11,
+		"aya_text": "رَّسُوْلًا يَّتْلُوْا عَلَيْكُمْ اٰيٰتِ اللّٰهِ مُبَيِّنٰتٍ لِّيُخْرِجَ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ مِنَ الظُّلُمٰتِ اِلَى النُّوْرِۗ وَمَنْ يُّؤْمِنْۢ بِاللّٰهِ وَيَعْمَلْ صَالِحًا يُّدْخِلْهُ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَآ اَبَدًاۗ قَدْ اَحْسَنَ اللّٰهُ لَهٗ رِزْقًا ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 559,
+		"translation_aya_text": "(dengan mengutus) seorang Rasul yang membacakan ayat-ayat Allah kepadamu yang menerangkan (bermacam-macam hukum), agar Dia mengeluarkan orang-orang yang beriman dan mengerjakan kebajikan, dari kegelapan kepada cahaya. Dan barangsiapa beriman kepada Allah dan mengerjakan kebajikan, niscaya Dia akan memasukkannya ke dalam surga-surga yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Sungguh, Allah memberikan rezeki yang baik kepadanya. ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 7,
+				"end": 9
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 10,
+				"end": 12
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 57,
+				"end": 62
+			},
+			{
+				"class": "ghunnah",
+				"start": 141,
+				"end": 143
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 154,
+				"end": 159
+			},
+			{
+				"class": "iqlab",
+				"start": 164,
+				"end": 166
+			},
+			{
+				"class": "iqlab",
+				"start": 167,
+				"end": 169
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 194,
+				"end": 196
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 197,
+				"end": 199
+			},
+			{
+				"class": "qalqalah",
+				"start": 201,
+				"end": 202
+			},
+			{
+				"class": "ghunnah",
+				"start": 212,
+				"end": 214
+			},
+			{
+				"class": "ikhfa",
+				"start": 215,
+				"end": 220
+			},
+			{
+				"class": "qalqalah",
+				"start": 220,
+				"end": 221
+			},
+			{
+				"class": "ikhfa",
+				"start": 229,
+				"end": 234
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 271,
+				"end": 274
+			},
+			{
+				"class": "ikhfa",
+				"start": 278,
+				"end": 280
+			},
+			{
+				"class": "ikhfa",
+				"start": 282,
+				"end": 284
+			},
+			{
+				"class": "qalqalah",
+				"start": 285,
+				"end": 286
+			}
+		]
+	},
+	{
+		"aya_id": 5229,
+		"aya_number": 12,
+		"aya_text": "اَللّٰهُ الَّذِيْ خَلَقَ سَبْعَ سَمٰوٰتٍ وَّمِنَ الْاَرْضِ مِثْلَهُنَّۗ يَتَنَزَّلُ الْاَمْرُ بَيْنَهُنَّ لِتَعْلَمُوْٓا اَنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ ەۙ وَّاَنَّ اللّٰهَ قَدْ اَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا ࣖ",
+		"sura_id": 65,
+		"juz_id": 28,
+		"page_number": 559,
+		"translation_aya_text": "Allah yang menciptakan tujuh langit dan dari (penciptaan) bumi juga serupa. Perintah Allah berlaku padanya, agar kamu mengetahui bahwa Allah Mahakuasa atas segala sesuatu, dan ilmu Allah benar-benar meliputi segala sesuatu. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 27,
+				"end": 28
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 38,
+				"end": 43
+			},
+			{
+				"class": "ghunnah",
+				"start": 67,
+				"end": 69
+			},
+			{
+				"class": "ghunnah",
+				"start": 102,
+				"end": 104
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 116,
+				"end": 119
+			},
+			{
+				"class": "ghunnah",
+				"start": 123,
+				"end": 125
+			},
+			{
+				"class": "ikhfa",
+				"start": 151,
+				"end": 156
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 160,
+				"end": 162
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 165,
+				"end": 167
+			},
+			{
+				"class": "ghunnah",
+				"start": 171,
+				"end": 173
+			},
+			{
+				"class": "qalqalah",
+				"start": 185,
+				"end": 186
+			}
+		]
+	}
+]

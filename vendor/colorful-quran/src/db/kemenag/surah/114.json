@@ -1,0 +1,138 @@
+[
+	{
+		"aya_id": 6231,
+		"aya_number": 1,
+		"aya_text": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 24,
+				"end": 26
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 27,
+				"end": 28
+			}
+		]
+	},
+	{
+		"aya_id": 6232,
+		"aya_number": 2,
+		"aya_text": "مَلِكِ النَّاسِۙ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "Raja manusia,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 9,
+				"end": 11
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 12,
+				"end": 13
+			}
+		]
+	},
+	{
+		"aya_id": 6233,
+		"aya_number": 3,
+		"aya_text": "اِلٰهِ النَّاسِۙ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "sembahan manusia,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 9,
+				"end": 11
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 12,
+				"end": 13
+			}
+		]
+	},
+	{
+		"aya_id": 6234,
+		"aya_number": 4,
+		"aya_text": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "dari kejahatan (bisikan) setan yang bersembunyi,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 2,
+				"end": 7
+			},
+			{
+				"class": "ghunnah",
+				"start": 32,
+				"end": 34
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 35,
+				"end": 36
+			}
+		]
+	},
+	{
+		"aya_id": 6235,
+		"aya_number": 5,
+		"aya_text": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 36,
+				"end": 38
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 39,
+				"end": 40
+			}
+		]
+	},
+	{
+		"aya_id": 6236,
+		"aya_number": 6,
+		"aya_text": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+		"sura_id": 114,
+		"juz_id": 30,
+		"page_number": 604,
+		"translation_aya_text": "dari (golongan) jin dan manusia.”",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 12
+			},
+			{
+				"class": "ghunnah",
+				"start": 20,
+				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 23,
+				"end": 24
+			}
+		]
+	}
+]

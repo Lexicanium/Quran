@@ -1,0 +1,199 @@
+[
+	{
+		"aya_id": 6080,
+		"aya_number": 1,
+		"aya_text": "وَالضُّحٰىۙ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Demi waktu duha (ketika matahari naik sepenggalah),",
+		"tajweed": []
+	},
+	{
+		"aya_id": 6081,
+		"aya_number": 2,
+		"aya_text": "وَالَّيْلِ اِذَا سَجٰىۙ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "dan demi malam apabila telah sunyi,",
+		"tajweed": []
+	},
+	{
+		"aya_id": 6082,
+		"aya_number": 3,
+		"aya_text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۗ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu,",
+		"tajweed": []
+	},
+	{
+		"aya_id": 6083,
+		"aya_number": 4,
+		"aya_text": "وَلَلْاٰخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُوْلٰىۗ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "dan sungguh, yang kemudian itu lebih baik bagimu dari yang permulaan.",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 19,
+				"end": 24
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 38,
+				"end": 40
+			}
+		]
+	},
+	{
+		"aya_id": 6084,
+		"aya_number": 5,
+		"aya_text": "وَلَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰىۗ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, sehingga engkau menjadi puas.",
+		"tajweed": []
+	},
+	{
+		"aya_id": 6085,
+		"aya_number": 6,
+		"aya_text": "اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu),",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 11,
+				"end": 12
+			},
+			{
+				"class": "ikhfa",
+				"start": 22,
+				"end": 24
+			},
+			{
+				"class": "ikhfa",
+				"start": 25,
+				"end": 27
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 28,
+				"end": 30
+			}
+		]
+	},
+	{
+		"aya_id": 6086,
+		"aya_number": 7,
+		"aya_text": "وَوَجَدَكَ ضَاۤلًّا فَهَدٰىۖ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 15,
+				"end": 18
+			},
+			{
+				"class": "ikhfa",
+				"start": 19,
+				"end": 21
+			}
+		]
+	},
+	{
+		"aya_id": 6087,
+		"aya_number": 8,
+		"aya_text": "وَوَجَدَكَ عَاۤىِٕلًا فَاَغْنٰىۗ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 13,
+				"end": 16
+			},
+			{
+				"class": "ikhfa",
+				"start": 18,
+				"end": 20
+			},
+			{
+				"class": "ikhfa",
+				"start": 21,
+				"end": 23
+			}
+		]
+	},
+	{
+		"aya_id": 6088,
+		"aya_number": 9,
+		"aya_text": "فَاَمَّا الْيَتِيْمَ فَلَا تَقْهَرْۗ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 6
+			},
+			{
+				"class": "qalqalah",
+				"start": 29,
+				"end": 30
+			}
+		]
+	},
+	{
+		"aya_id": 6089,
+		"aya_number": 10,
+		"aya_text": "وَاَمَّا السَّاۤىِٕلَ فَلَا تَنْهَرْ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Dan terhadap orang yang meminta-minta janganlah engkau menghardik(nya).",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 6
+			},
+			{
+				"class": "madd-wajib",
+				"start": 14,
+				"end": 17
+			}
+		]
+	},
+	{
+		"aya_id": 6090,
+		"aya_number": 11,
+		"aya_text": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ࣖ",
+		"sura_id": 93,
+		"juz_id": 30,
+		"page_number": 596,
+		"translation_aya_text": "Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan (dengan bersyukur).",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 4,
+				"end": 6
+			}
+		]
+	}
+]

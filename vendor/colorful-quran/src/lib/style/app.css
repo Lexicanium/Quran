@@ -1,0 +1,98 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+	font-family: 'Kemenag LPMQ';
+	src: url('../font/LPMQ.ttf');
+}
+@font-face {
+	font-family: 'poppins';
+	src: url('../font/poppins.ttf');
+}
+:root {
+	--font-arab: 'Kemenag LPMQ';
+	--font-poppins: 'poppins';
+	--font-sans: Arial, Helvetica, sans-serif;
+	--color-silent: rgba(204, 204, 204, 0.863);
+	--color-madd-4-5: rgb(38, 139, 13);
+	--color-madd-2-4-6: rgb(0, 247, 255);
+	--color-madd-6: rgb(235, 81, 119);
+	--color-madd-wajib: var(--color-madd-4-5);
+	--color-madd-jaiz: var(--color-madd-4-5);
+	--color-madd-arid-lissukun: var(--color-madd-2-4-6);
+	--color-madd-lazim-mutsaqal-harfi: var(--color-madd-6);
+	--color-madd-lazim-mukhofaf-harfi: var(--color-madd-6);
+	--color-ghunnah: rgb(255, 0, 179);
+	--color-idgham-mimi: rgb(116, 143, 231);
+	--color-ikhfa-syafawi: rgb(116, 143, 231);
+	--color-idgham-bighunnah: rgb(255, 0, 179);
+	--color-idgham-bilaghunnah: rgb(255, 0, 0);
+	--color-idgham-mutamatsilain: rgb(255, 0, 0);
+	--color-idgham-mutajanisain: rgb(255, 0, 0);
+	--color-ikhfa: rgb(81, 235, 127);
+	--color-iqlab: rgb(116, 143, 231);
+	--color-qalqalah: rgb(11, 1, 141);
+}
+
+.font-arab {
+	direction: rtl;
+	line-height: 180%;
+}
+.font-arab i {
+	font-style: normal;
+}
+.hamzah-wasl,
+.silent {
+	color: var(--color-silent);
+}
+.madd-lazim-mutsaqal-harfi,
+.madd-lazim-mukhofaf-harfi {
+	color: var(--color-madd-6);
+}
+.madd-wajib,
+.madd-jaiz {
+	color: var(--color-madd-4-5);
+}
+.madd-arid-lissukun {
+	color: var(--color-madd-2-4-6);
+}
+.ghunnah {
+	color: var(--color-ghunnah);
+}
+.idgham-mimi {
+	color: var(--color-idgham-mimi);
+}
+.ikhfa-syafawi {
+	color: var(--color-ikhfa-syafawi);
+}
+.idgham-bighunnah {
+	color: var(--color-idgham-bighunnah);
+}
+.idgham-bilaghunnah {
+	color: var(--color-idgham-bilaghunnah);
+}
+.idgham-mutamatsilain {
+	color: var(--color-idgham-mutamatsilain);
+}
+.idgham-mutajanisain {
+	color: var(--color-idgham-mutajanisain);
+}
+.ikhfa {
+	color: var(--color-ikhfa);
+}
+.iqlab {
+	color: var(--color-iqlab);
+}
+.qalqalah {
+	color: var(--color-qalqalah);
+}
+
+.bg-grad {
+	background: linear-gradient(129.41deg, #2b52a1 39.97%, rgba(43, 82, 161, 0) 216.3%);
+	mix-blend-mode: normal;
+}
+
+.dark .bg-grad {
+	background: linear-gradient(129.41deg, rgb(46, 51, 63) 39.97%, rgba(16, 29, 54, 0) 216.3%);
+}
