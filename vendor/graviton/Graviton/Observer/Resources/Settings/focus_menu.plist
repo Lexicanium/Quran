@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>Focus</string>
+	<key>contents</key>
+	<array>
+		<dict>
+			<key>content</key>
+			<array>
+				<dict>
+					<key>type</key>
+					<string>detail</string>
+					<key>text</key>
+					<string>Horizontal Directions</string>
+					<key>image</key>
+					<string>row_icon_direction_marker</string>
+					<key>destination</key>
+					<string>direction_marker_menu</string>
+				</dict>
+				<dict>
+					<key>type</key>
+					<string>detail</string>
+					<key>text</key>
+					<string>Celestial Points</string>
+					<key>image</key>
+					<string>row_icon_celestial_sphere</string>
+					<key>destination</key>
+					<string>direction_celestial_menu</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
