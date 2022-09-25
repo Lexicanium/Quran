@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="How to Parse and Dispaly Quran Tajweed text">
+    <meta name="google-site-verification" content="arzs4C48XJM21SFRoVKstsDsebMt--HgB1hjr9y_7Ks" />
+
+    <!--<link rel="icon" href="../../favicon.ico">-->
+
+    <title>Tajweed Guide</title>
+
+    <!-- Bootstrap core CSS -->
+    <!--<link href="/public/libraries/bootstrap-3.3.6/css/bootstrap.min.css" rel="stylesheet">-->
+    <link href="https://bootswatch.com/3/paper/bootstrap.min.css" rel="stylesheet">
+    <!-- AlQuran.Cloud CSS -->
+    <link href="/public/css/font-kitab.css?v=1" rel="stylesheet">
+    <link href="/public/libraries/bootstrap-multiselect/dist/css/bootstrap-multiselect.css?v=1" rel="stylesheet">
+    <link href="/public/css/stickyfooter.css?v=1" rel="stylesheet">
+    <link href="/public/css/alquran.cloud.css?v=2" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="/public/libraries/bootstrap-3.3.6/js/bootstrap.min.js"></script>
+    <script src="/public/libraries/bootstrap-multiselect/dist/js/bootstrap-multiselect.js"></script>
+  </head>
+
+  <body style="margin-top: 70px;background:url(/public/images/bg4.png); background-attachment: fixed; background-size: 100%; background position: center center;" >
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <!--<div class="container">-->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+              <li class="dropdown">
+                  <a class="navbar-brand font-kitab rtl" style="margin-right: 10px;" href="https://alquran.cloud">الْقُرْآن الْكَرِيْم</a>
+              </li>
+          </ul>
+          <ul class="nav navbar-nav">
+            <li class=""><a href="https://alquran.cloud">Home</a></li>
+            <li class=""><a href="/read" >Quran</a></li>
+            <li class=""><a href="/juzs">Juz</a></li>
+            <li class=""><a href="/surahs">Surah</a></li>
+            <li class=""><a href="/ayah">Ayah</a></li>
+            <li class="dropdown active">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">API <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="/api">API Documentation</a></li>
+                    <li><a href="/cdn">Content Delivery Network</a></li>
+                    <!--<li><a href="/api-clients">API Clients</a></li>-->
+                    <li><a href="/tajweed-guide">Tajweed Guide</a></li>
+                    <li><a href="/arabic-font-edition-tester">Font Edition Tester</a></li>
+                </ul>
+            </li>
+            <li class=""><a href="/cdn">CDN</a></li>
+
+          </ul>
+            <form class="navbar-form pull-right" style="margin-right: 20px;" role="search" method="GET" action="/search">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search the Quran" name="keyword" id="search-term" value="">
+                    <div class="input-group-btn">
+                        <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+      <!--</div>-->
+  </nav>
+<link href="/public/css/tajweed.css" rel="stylesheet">
+
+<div class="container">
+    <div class="lead font-kitab align-center">
+        بِسْمِ ٱللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+    </div>
+	<div class="page-header">
+        <h4>Tajweed Guide - <small> Parsing and Displaying Tajweed Data </small></h4>
+    </div>
+	<div class="row">
+		<div class="col-md-12">
+        <h5>Developer Tools and Documentation</h5>
+        <p>
+            The library and documentation on how to use it is available on <a href="https://github.com/islamic-network/alquran-tools">https://github.com/meezaan/alquran-tools</a>.
+            This page essentially lists the output of the library. Please see the complete documentation the GitHub URL above.
+        </p>
+        <h5>Rendered Example - Ayah Noor (24:35) with Tajweed Parsed</h5>
+            <div class="font-kitab style-ayah" style="direction: rtl">
+            ۞ ٱللَّهُ نُورُ <tajweed class="ham_wasl" data-type="hamza-wasl" data-description="Hamzat ul Wasl" data-tajweed=":9421">ٱ</tajweed><tajweed class="slnt" data-type="laam-shamsiyah" data-description="Lam Shamsiyyah" data-tajweed="">ل</tajweed>سَّمَ<tajweed class="madda_normal" data-type="madda-normal" data-description="Normal Prolongation: 2 Vowels" data-tajweed="">ـٰ</tajweed>و<tajweed class="madda_normal" data-type="madda-normal" data-description="Normal Prolongation: 2 Vowels" data-tajweed="">َٲ</tajweed>تِ وَ<tajweed class="ham_wasl" data-type="hamza-wasl" data-description="Hamzat ul Wasl" data-tajweed=":177">ٱ</tajweed>لْأَرْضِ‌ۚ مَثَلُ نُورِه<tajweed class="madda_normal" data-type="madda-normal" data-description="Normal Prolongation: 2 Vowels" data-tajweed="">ِۦ</tajweed> كَمِشْكَ<tajweed class="slnt" data-type="silent" data-description="Silent" data-tajweed="">و</tajweed><tajweed class="madda_normal" data-type="madda-normal" data-description="Normal Prolongation: 2 Vowels" data-tajweed="">ٲ</tajweed><tajweed class="ikhf" data-type="ikhafa" data-description="Ikhafa'" data-tajweed=":9422">ةٍ ف</tajweed>ِيهَا مِصْبَاحٌ‌ۖ <tajweed class="ham_wasl" data-type="hamza-wasl" data-description="Hamzat ul Wasl" data-tajweed=":9423">ٱ</tajweed>لْمِصْبَاحُ فِى زُجَاجَةٍ‌ۖ <tajweed class="ham_wasl" data-type="hamza-wasl" data-description="Hamzat ul Wasl" data-tajweed=":9424">ٱ</tajweed><tajweed class="slnt" data-type="laam-shamsiyah" data-description="Lam Shamsiyyah" data-tajweed="">ل</tajweed>زُّجَاجَةُ كَأَ<tajweed class="ghn" data-type="ghunnah" data-description="Ghunnah: 2 Vowels" data-tajweed="">نّ</tajweed>َهَا كَوْكَ<tajweed class="ikhf" data-type="ikhafa" data-description="Ikhafa'" data-tajweed=":9425">بٌ د</tajweed>ُرِّ<tajweed class="idgh_ghn" data-type="idgham-with-ghunnah" data-description="Idgham - With Ghunnah" data-tajweed=":9426">ىٌّ ي</tajweed>ُوقَدُ مِ<tajweed class="ikhf" data-type="ikhafa" data-description="Ikhafa'" data-tajweed=":9427">ن ش</tajweed>َجَرَ<tajweed class="idgh_ghn" data-type="idgham-with-ghunnah" data-description="Idgham - With Ghunnah" data-tajweed=":9428">ةٍ م</tajweed>ُّبَ<tajweed class="madda_normal" data-type="madda-normal" data-description="Normal Prolongation: 2 Vowels" data-tajweed="">ـٰ</tajweed>رَكَ<tajweed class="ikhf" data-type="ikhafa" data-description="Ikhafa'" data-tajweed=":9429">ةٍ ز</tajweed>َيْتُونَ<tajweed class="idgh_w_ghn" data-type="idgham-without-ghunnah" data-description="Idgham - Without Ghunnah" data-tajweed=":9430">ةٍ ل</tajweed>َّا شَرْقِيَّ<tajweed class="idgh_ghn" data-type="idgham-with-ghunnah" data-description="Idgham - With Ghunnah" data-tajweed=":9431">ةٍ و</tajweed>َلَا غَرْبِيَّ<tajweed class="idgh_ghn" data-type="idgham-with-ghunnah" data-description="Idgham - With Ghunnah" data-tajweed=":9432">ةٍ ي</tajweed>َكَادُ زَيْتُهَا يُض<tajweed class="madda_pbligatory" data-type="madda-obligatory" data-description="Obligatory Prolongation: 4-5 Vowels" data-tajweed="">ِى</tajweed>ٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَا<tajweed class="idgh_ghn" data-type="idgham-with-ghunnah" data-description="Idgham - With Ghunnah" data-tajweed=":9433">رٌ‌ۚ ن</tajweed>ُّورٌ عَلَىٰ نُو<tajweed class="idgh_ghn" data-type="idgham-with-ghunnah" data-description="Idgham - With Ghunnah" data-tajweed=":9434">رٍ‌ۗ ي</tajweed>َهْدِى <tajweed class="ham_wasl" data-type="hamza-wasl" data-description="Hamzat ul Wasl" data-tajweed=":2084">ٱ</tajweed>للَّهُ لِنُورِه<tajweed class="madda_normal" data-type="madda-normal" data-description="Normal Prolongation: 2 Vowels" data-tajweed="">ِۦ</tajweed> م<tajweed class="idgh_ghn" data-type="idgham-with-ghunnah" data-description="Idgham - With Ghunnah" data-tajweed=":476">َن ي</tajweed>َش<tajweed class="madda_pbligatory" data-type="madda-obligatory" data-description="Obligatory Prolongation: 4-5 Vowels" data-tajweed="">َا</tajweed>ٓءُ‌ۚ وَيَضْرِبُ <tajweed class="ham_wasl" data-type="hamza-wasl" data-description="Hamzat ul Wasl" data-tajweed=":7110">ٱ</tajweed>للَّهُ <tajweed class="ham_wasl" data-type="hamza-wasl" data-description="Hamzat ul Wasl" data-tajweed=":6948">ٱ</tajweed>لْأَمْثَ<tajweed class="madda_normal" data-type="madda-normal" data-description="Normal Prolongation: 2 Vowels" data-tajweed="">ـٰ</tajweed>لَ لِل<tajweed class="ghn" data-type="ghunnah" data-description="Ghunnah: 2 Vowels" data-tajweed="">نّ</tajweed>َاسِ‌ۗ وَ<tajweed class="ham_wasl" data-type="hamza-wasl" data-description="Hamzat ul Wasl" data-tajweed=":72">ٱ</tajweed>للَّهُ بِكُلِّ شَىْءٍ عَل<tajweed class="madda_permissible" data-type="madda-permissible" data-description="Permissible Prolongation: 2, 4, 6 Vowels" data-tajweed="">ِي</tajweed>مٌ            </div>
+        <h5>What do the Colours mean?</h5>
+        <table class="table table-responsive table-bordered">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Identifier</th>
+            <th>Colour</th>
+            <th>CSS</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+                    <tr>
+                <td>hamza-wasl</td>
+                <td>[h</td>
+                <td style="background-color: #AAAAAA; color: white;">#AAAAAA</td>
+                <td>ham_wasl</td>
+                <td>Hamzat ul Wasl</td>
+            </tr>
+                    <tr>
+                <td>silent</td>
+                <td>[s</td>
+                <td style="background-color: #AAAAAA; color: white;">#AAAAAA</td>
+                <td>slnt</td>
+                <td>Silent</td>
+            </tr>
+                    <tr>
+                <td>laam-shamsiyah</td>
+                <td>[l</td>
+                <td style="background-color: #AAAAAA; color: white;">#AAAAAA</td>
+                <td>slnt</td>
+                <td>Lam Shamsiyyah</td>
+            </tr>
+                    <tr>
+                <td>madda-normal</td>
+                <td>[n</td>
+                <td style="background-color: #537FFF; color: white;">#537FFF</td>
+                <td>madda_normal</td>
+                <td>Normal Prolongation: 2 Vowels</td>
+            </tr>
+                    <tr>
+                <td>madda-permissible</td>
+                <td>[p</td>
+                <td style="background-color: #4050FF; color: white;">#4050FF</td>
+                <td>madda_permissible</td>
+                <td>Permissible Prolongation: 2, 4, 6 Vowels</td>
+            </tr>
+                    <tr>
+                <td>madda-necesssary</td>
+                <td>[m</td>
+                <td style="background-color: #000EBC; color: white;">#000EBC</td>
+                <td>madda_necessary</td>
+                <td>Necessary Prolongation: 6 Vowels</td>
+            </tr>
+                    <tr>
+                <td>qalaqah</td>
+                <td>[q</td>
+                <td style="background-color: #DD0008; color: white;">#DD0008</td>
+                <td>qlq</td>
+                <td>Qalaqah</td>
+            </tr>
+                    <tr>
+                <td>madda-obligatory</td>
+                <td>[o</td>
+                <td style="background-color: #2144C1; color: white;">#2144C1</td>
+                <td>madda_pbligatory</td>
+                <td>Obligatory Prolongation: 4-5 Vowels</td>
+            </tr>
+                    <tr>
+                <td>ikhafa-shafawi</td>
+                <td>[c</td>
+                <td style="background-color: #D500B7; color: white;">#D500B7</td>
+                <td>ikhf_shfw</td>
+                <td>Ikhafa' Shafawi - With Meem</td>
+            </tr>
+                    <tr>
+                <td>ikhafa</td>
+                <td>[f</td>
+                <td style="background-color: #9400A8; color: white;">#9400A8</td>
+                <td>ikhf</td>
+                <td>Ikhafa'</td>
+            </tr>
+                    <tr>
+                <td>idgham-shafawi</td>
+                <td>[w</td>
+                <td style="background-color: #58B800; color: white;">#58B800</td>
+                <td>idghm_shfw</td>
+                <td>Idgham Shafawi - With Meem</td>
+            </tr>
+                    <tr>
+                <td>iqlab</td>
+                <td>[i</td>
+                <td style="background-color: #26BFFD; color: white;">#26BFFD</td>
+                <td>iqlb</td>
+                <td>Iqlab</td>
+            </tr>
+                    <tr>
+                <td>idgham-with-ghunnah</td>
+                <td>[a</td>
+                <td style="background-color: #169777; color: white;">#169777</td>
+                <td>idgh_ghn</td>
+                <td>Idgham - With Ghunnah</td>
+            </tr>
+                    <tr>
+                <td>idgham-without-ghunnah</td>
+                <td>[u</td>
+                <td style="background-color: #169200; color: white;">#169200</td>
+                <td>idgh_w_ghn</td>
+                <td>Idgham - Without Ghunnah</td>
+            </tr>
+                    <tr>
+                <td>idgham-mutajanisayn</td>
+                <td>[d</td>
+                <td style="background-color: #A1A1A1; color: white;">#A1A1A1</td>
+                <td>idgh_mus</td>
+                <td>Idgham - Mutajanisayn</td>
+            </tr>
+                    <tr>
+                <td>idgham-mutaqaribayn</td>
+                <td>[b</td>
+                <td style="background-color: #A1A1A1; color: white;">#A1A1A1</td>
+                <td>idgh_mus</td>
+                <td>Idgham - Mutaqaribayn</td>
+            </tr>
+                    <tr>
+                <td>ghunnah</td>
+                <td>[g</td>
+                <td style="background-color: #FF7E1E; color: white;">#FF7E1E</td>
+                <td>ghn</td>
+                <td>Ghunnah: 2 Vowels</td>
+            </tr>
+            </tbody>
+</table>
+    <p>
+        Essentially, all that's happening here is that [h:9421[ٱ] which is returned by the API for the above Vese becomes:
+        <pre>&lt;tajweed class="ham_wasl" data-type="hamza-wasl" data-description="Hamzat ul Wasl" data-tajweed=":9421"&gt;ٱ&lt;/tajweed&gt;</pre>
+    </p>
+    </div>
+        </div>
+
+
+</div>
+
+
+
+<footer class="footer"  style="position: fixed; margin-top: 20px; border-top: 1px #ccc solid;">
+    <!--<div class="container">-->
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                <p class="" style="margin-top: 20px; margin-left: 10px;">
+            &copy; 2022 <a href="https://islamic.network" target="_blank">Islamic Network</a> and respective <a href="https://alquran.cloud/contributors">contributors</a>.
+                </p>
+            </div>
+            <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                <ul class="nav navbar-nav pull-right">
+                    <li><a href="https://aladhan.com" target="_blank">Prayer Times</a></li>
+                    <li><a href="https://aladhan.com/gregorian-hijri-calendar" target="_blank">Hijri Calendar</a></li>
+                    <li><a href="https://alquran.cloud/contact">Contact</a></li>
+                    <li><a href="https://alquran.cloud/terms-and-conditions">Terms &amp; Conditions</a></li>
+                </ul>
+            </div>
+        </div>
+    <!--</div>-->
+</footer>
+</div>
+
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3749682-29', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
