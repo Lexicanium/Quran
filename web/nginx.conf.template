@@ -1,0 +1,85 @@
+worker_processes  5;  ## Default: 1
+#error_log  logs/error.log; Headway doesn't log whenever possible.
+worker_rlimit_nofile 8192;
+
+events {
+  worker_connections  4096;  ## Default: 1024
+}
+
+http {
+  index    index.html;
+  root /usr/share/nginx/html/;
+  include mime.types;
+
+  sendfile     on;
+  tcp_nopush   on;
+  server_names_hash_bucket_size 128; # this seems to be required for some vhosts
+
+  proxy_http_version 1.1;
+
+  server {
+    resolver ${HEADWAY_RESOLVER};
+    listen ${HEADWAY_HTTP_PORT} default_server;
+
+    # photon
+    location /pelias/  {
+      proxy_pass      ${HEADWAY_PELIAS_URL}/;
+    }
+
+    # opentripplanner
+    location /otp  {
+      # omit the trailing slash because OTP's api URL prefix is "otp/" and we don't wanna expose the web UI
+      proxy_pass      ${HEADWAY_OTP_URL};
+    }
+
+    # valhalla
+    location /valhalla/  {
+      proxy_pass      ${HEADWAY_VALHALLA_URL}/;
+    }
+
+    # mbtileserver stuff
+    location /data/  {
+      proxy_set_header Accept-Encoding "";
+      proxy_set_header x-real-IP ${ESC}remote_addr;
+      proxy_set_header x-forwarded-for ${ESC}proxy_add_x_forwarded_for;
+      proxy_set_header Host "magic_string_magic";
+      sub_filter_types application/json;
+      sub_filter_once  off;
+      sub_filter_last_modified on;
+      sub_filter       'http://magic_string_magic' '${HEADWAY_PUBLIC_URL}';
+      sub_filter       'https://magic_string_magic' '${HEADWAY_PUBLIC_URL}';
+      proxy_pass       ${HEADWAY_TILESERVER_URL}/data/;
+    }
+    location /styles/  {
+      proxy_set_header Accept-Encoding "";
+      proxy_set_header x-real-IP ${ESC}remote_addr;
+      proxy_set_header x-forwarded-for ${ESC}proxy_add_x_forwarded_for;
+      proxy_set_header Host "magic_string_magic";
+      sub_filter_types application/json;
+      sub_filter_once  off;
+      sub_filter_last_modified on;
+      sub_filter       'http://magic_string_magic' '${HEADWAY_PUBLIC_URL}';
+      sub_filter       'https://magic_string_magic' '${HEADWAY_PUBLIC_URL}';
+      proxy_pass       ${HEADWAY_TILESERVER_URL};
+    }
+    location /static/  {
+      # allow use with maputnik
+      add_header Access-Control-Allow-Origin *;
+      alias ${HEADWAY_SHARED_VOL}/;
+    }
+    location /fonts/  {
+      proxy_pass       ${HEADWAY_TILESERVER_URL}/fonts/;
+    }
+    location /bbox.txt {
+      add_header Content-Type text/plain;
+      alias ${HEADWAY_BBOX_PATH};
+    }
+    location /capabilities.txt {
+      add_header Content-Type text/plain;
+      alias ${HEADWAY_CAPABILITIES_PATH};
+    }
+    location / {
+      try_files ${ESC}uri /index.html;
+    }
+  }
+}
