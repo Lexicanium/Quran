@@ -1,0 +1,611 @@
+[
+	{
+		"aya_id": 5164,
+		"aya_number": 1,
+		"aya_text": "سَبَّحَ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِۚ وَهُوَ الْعَزِيْزُ الْحَكِيْمُ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 551,
+		"translation_aya_text": "Apa yang ada di langit dan apa yang ada di bumi bertasbih kepada Allah; dan Dialah Yang Mahaperkasa, Mahabijaksana.",
+		"tajweed": [
+			{
+				"class": "madd-arid-lissukun",
+				"start": 83,
+				"end": 85
+			}
+		]
+	},
+	{
+		"aya_id": 5165,
+		"aya_number": 2,
+		"aya_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لِمَ تَقُوْلُوْنَ مَا لَا تَفْعَلُوْنَ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 551,
+		"translation_aya_text": "Wahai orang-orang yang beriman! Mengapa kamu mengatakan sesuatu yang tidak kamu kerjakan?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 67,
+				"end": 69
+			}
+		]
+	},
+	{
+		"aya_id": 5166,
+		"aya_number": 3,
+		"aya_text": "كَبُرَ مَقْتًا عِنْدَ اللّٰهِ اَنْ تَقُوْلُوْا مَا لَا تَفْعَلُوْنَ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 551,
+		"translation_aya_text": "(Itu) sangatlah dibenci di sisi Allah jika kamu mengatakan apa-apa yang tidak kamu kerjakan.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			},
+			{
+				"class": "ikhfa",
+				"start": 17,
+				"end": 21
+			},
+			{
+				"class": "ikhfa",
+				"start": 32,
+				"end": 37
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 63,
+				"end": 65
+			}
+		]
+	},
+	{
+		"aya_id": 5167,
+		"aya_number": 4,
+		"aya_text": "اِنَّ اللّٰهَ يُحِبُّ الَّذِيْنَ يُقَاتِلُوْنَ فِيْ سَبِيْلِهٖ صَفًّا كَاَنَّهُمْ بُنْيَانٌ مَّرْصُوْصٌ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 551,
+		"translation_aya_text": "Sesungguhnya Allah mencintai orang-orang yang berperang di jalan-Nya dalam barisan yang teratur, mereka seakan-akan seperti suatu bangunan yang tersusun kokoh.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 4
+			},
+			{
+				"class": "ikhfa",
+				"start": 65,
+				"end": 68
+			},
+			{
+				"class": "ikhfa",
+				"start": 69,
+				"end": 71
+			},
+			{
+				"class": "ghunnah",
+				"start": 74,
+				"end": 76
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 79,
+				"end": 84
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 84,
+				"end": 88
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 89,
+				"end": 94
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 99,
+				"end": 101
+			}
+		]
+	},
+	{
+		"aya_id": 5168,
+		"aya_number": 5,
+		"aya_text": "وَاِذْ قَالَ مُوْسٰى لِقَوْمِهٖ يٰقَوْمِ لِمَ تُؤْذُوْنَنِيْ وَقَدْ تَّعْلَمُوْنَ اَنِّيْ رَسُوْلُ اللّٰهِ اِلَيْكُمْۗ فَلَمَّا زَاغُوْٓا اَزَاغَ اللّٰهُ قُلُوْبَهُمْۗ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الْفٰسِقِيْنَ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 551,
+		"translation_aya_text": "Dan (ingatlah) ketika Musa berkata kepada kaumnya, “Wahai kaumku! Mengapa kamu menyakitiku, padahal kamu sungguh mengetahui bahwa sesungguhnya aku utusan Allah kepadamu?” Maka ketika mereka berpaling (dari kebenaran), Allah memalingkan hati mereka. Dan Allah tidak memberi petunjuk kepada kaum yang fasik.",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 65,
+				"end": 66
+			},
+			{
+				"class": "ghunnah",
+				"start": 84,
+				"end": 86
+			},
+			{
+				"class": "ghunnah",
+				"start": 123,
+				"end": 125
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 133,
+				"end": 136
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 209,
+				"end": 211
+			}
+		]
+	},
+	{
+		"aya_id": 5169,
+		"aya_number": 6,
+		"aya_text": "وَاِذْ قَالَ عِيْسَى ابْنُ مَرْيَمَ يٰبَنِيْٓ اِسْرَاۤءِيْلَ اِنِّيْ رَسُوْلُ اللّٰهِ اِلَيْكُمْ مُّصَدِّقًا لِّمَا بَيْنَ يَدَيَّ مِنَ التَّوْرٰىةِ وَمُبَشِّرًاۢ بِرَسُوْلٍ يَّأْتِيْ مِنْۢ بَعْدِى اسْمُهٗٓ اَحْمَدُۗ فَلَمَّا جَاۤءَهُمْ بِالْبَيِّنٰتِ قَالُوْا هٰذَا سِحْرٌ مُّبِيْنٌ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 552,
+		"translation_aya_text": "Dan (ingatlah) ketika Isa putra Maryam berkata, “Wahai Bani Israil! Sesungguhnya aku utusan Allah kepadamu, yang membenarkan kitab (yang turun) sebelumku, yaitu Taurat dan memberi kabar gembira dengan seorang Rasul yang akan datang setelahku, yang namanya Ahmad (Muhammad).” Namun ketika Rasul itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata, “Ini adalah sihir yang nyata.” ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 22,
+				"end": 23
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 42,
+				"end": 46
+			},
+			{
+				"class": "madd-wajib",
+				"start": 52,
+				"end": 54
+			},
+			{
+				"class": "ghunnah",
+				"start": 63,
+				"end": 65
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 94,
+				"end": 99
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 105,
+				"end": 107
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 108,
+				"end": 110
+			},
+			{
+				"class": "iqlab",
+				"start": 158,
+				"end": 160
+			},
+			{
+				"class": "iqlab",
+				"start": 162,
+				"end": 164
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 171,
+				"end": 176
+			},
+			{
+				"class": "iqlab",
+				"start": 186,
+				"end": 188
+			},
+			{
+				"class": "iqlab",
+				"start": 189,
+				"end": 191
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 203,
+				"end": 207
+			},
+			{
+				"class": "ghunnah",
+				"start": 221,
+				"end": 223
+			},
+			{
+				"class": "madd-wajib",
+				"start": 228,
+				"end": 230
+			},
+			{
+				"class": "ikhfa-syafawi",
+				"start": 234,
+				"end": 239
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 271,
+				"end": 276
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 279,
+				"end": 281
+			}
+		]
+	},
+	{
+		"aya_id": 5170,
+		"aya_number": 7,
+		"aya_text": "وَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ الْكَذِبَ وَهُوَ يُدْعٰىٓ اِلَى الْاِسْلَامِۗ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظّٰلِمِيْنَ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 552,
+		"translation_aya_text": "Dan siapakah yang lebih zalim daripada orang yang mengada-adakan kebohongan terhadap Allah padahal dia diajak kepada (agama) Islam? Dan Allah tidak memberi petunjuk kepada orang-orang yang zalim. ",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 16,
+				"end": 18
+			},
+			{
+				"class": "qalqalah",
+				"start": 66,
+				"end": 67
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 68,
+				"end": 73
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 134,
+				"end": 136
+			}
+		]
+	},
+	{
+		"aya_id": 5171,
+		"aya_number": 8,
+		"aya_text": "يُرِيْدُوْنَ لِيُطْفِـُٔوْا نُوْرَ اللّٰهِ بِاَفْوَاهِهِمْۗ وَاللّٰهُ مُتِمُّ نُوْرِهٖ وَلَوْ كَرِهَ الْكٰفِرُوْنَ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 552,
+		"translation_aya_text": "Mereka hendak memadamkan cahaya (agama) Allah dengan mulut (ucapan-ucapan) mereka, tetapi Allah tetap menyempurnakan cahaya-Nya meskipun orang-orang kafir membencinya. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 17,
+				"end": 18
+			},
+			{
+				"class": "ghunnah",
+				"start": 74,
+				"end": 76
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 110,
+				"end": 112
+			}
+		]
+	},
+	{
+		"aya_id": 5172,
+		"aya_number": 9,
+		"aya_text": "هُوَ الَّذِيْٓ اَرْسَلَ رَسُوْلَهٗ بِالْهُدٰى وَدِيْنِ الْحَقِّ لِيُظْهِرَهٗ عَلَى الدِّيْنِ كُلِّهٖۙ وَلَوْ كَرِهَ الْمُشْرِكُوْنَ ࣖ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 552,
+		"translation_aya_text": "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar, untuk memenangkannya di atas segala agama meskipun orang-orang musyrik membencinya. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 11,
+				"end": 15
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 127,
+				"end": 129
+			}
+		]
+	},
+	{
+		"aya_id": 5173,
+		"aya_number": 10,
+		"aya_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا هَلْ اَدُلُّكُمْ عَلٰى تِجَارَةٍ تُنْجِيْكُمْ مِّنْ عَذَابٍ اَلِيْمٍ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 552,
+		"translation_aya_text": "Wahai orang-orang yang beriman! Maukah kamu Aku tunjukkan suatu perdagangan yang dapat menyelamatkan kamu dari azab yang pedih?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "ikhfa",
+				"start": 63,
+				"end": 68
+			},
+			{
+				"class": "ikhfa",
+				"start": 68,
+				"end": 72
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 76,
+				"end": 81
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 97,
+				"end": 99
+			}
+		]
+	},
+	{
+		"aya_id": 5174,
+		"aya_number": 11,
+		"aya_text": "تُؤْمِنُوْنَ بِاللّٰهِ وَرَسُوْلِهٖ وَتُجَاهِدُوْنَ فِيْ سَبِيْلِ اللّٰهِ بِاَمْوَالِكُمْ وَاَنْفُسِكُمْۗ ذٰلِكُمْ خَيْرٌ لَّكُمْ اِنْ كُنْتُمْ تَعْلَمُوْنَۙ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 552,
+		"translation_aya_text": "Yaitu kamu beriman kepada Allah dan Rasul-Nya dan berjihad di jalan Allah dengan harta dan jiwamu. Itulah yang lebih baik bagi kamu jika kamu mengetahui,",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 94,
+				"end": 98
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 119,
+				"end": 124
+			},
+			{
+				"class": "ikhfa",
+				"start": 132,
+				"end": 137
+			},
+			{
+				"class": "ikhfa",
+				"start": 137,
+				"end": 141
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 152,
+				"end": 154
+			}
+		]
+	},
+	{
+		"aya_id": 5175,
+		"aya_number": 12,
+		"aya_text": "يَغْفِرْ لَكُمْ ذُنُوْبَكُمْ وَيُدْخِلْكُمْ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ وَمَسٰكِنَ طَيِّبَةً فِيْ جَنّٰتِ عَدْنٍۗ ذٰلِكَ الْفَوْزُ الْعَظِيْمُۙ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 552,
+		"translation_aya_text": "niscaya Allah mengampuni dosa-dosamu dan memasukkan kamu ke dalam surga yang mengalir di bawahnya sungai-sungai, dan ke tempat-tempat tinggal yang baik di dalam surga ‘Adn. Itulah kemenangan yang agung. ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 33,
+				"end": 34
+			},
+			{
+				"class": "ghunnah",
+				"start": 46,
+				"end": 48
+			},
+			{
+				"class": "ikhfa",
+				"start": 49,
+				"end": 54
+			},
+			{
+				"class": "qalqalah",
+				"start": 54,
+				"end": 55
+			},
+			{
+				"class": "ikhfa",
+				"start": 63,
+				"end": 68
+			},
+			{
+				"class": "ikhfa",
+				"start": 106,
+				"end": 111
+			},
+			{
+				"class": "ghunnah",
+				"start": 116,
+				"end": 118
+			},
+			{
+				"class": "qalqalah",
+				"start": 124,
+				"end": 125
+			},
+			{
+				"class": "ikhfa",
+				"start": 126,
+				"end": 128
+			},
+			{
+				"class": "ikhfa",
+				"start": 129,
+				"end": 131
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 154,
+				"end": 156
+			}
+		]
+	},
+	{
+		"aya_id": 5176,
+		"aya_number": 13,
+		"aya_text": "وَاُخْرٰى تُحِبُّوْنَهَاۗ نَصْرٌ مِّنَ اللّٰهِ وَفَتْحٌ قَرِيْبٌۗ وَبَشِّرِ الْمُؤْمِنِيْنَ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 552,
+		"translation_aya_text": "Dan (ada lagi) karunia yang lain yang kamu sukai (yaitu) pertolongan dari Allah dan kemenangan yang dekat (waktunya). Dan sampaikanlah berita gembira kepada orang-orang mukmin. ",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 30,
+				"end": 35
+			},
+			{
+				"class": "ikhfa",
+				"start": 53,
+				"end": 58
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 62,
+				"end": 64
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 65,
+				"end": 67
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 87,
+				"end": 89
+			}
+		]
+	},
+	{
+		"aya_id": 5177,
+		"aya_number": 14,
+		"aya_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا كُوْنُوْٓا اَنْصَارَ اللّٰهِ كَمَا قَالَ عِيْسَى ابْنُ مَرْيَمَ لِلْحَوَارِيّٖنَ مَنْ اَنْصَارِيْٓ اِلَى اللّٰهِ ۗقَالَ الْحَوَارِيُّوْنَ نَحْنُ اَنْصَارُ اللّٰهِ فَاٰمَنَتْ طَّاۤىِٕفَةٌ مِّنْۢ بَنِيْٓ اِسْرَاۤءِيْلَ وَكَفَرَتْ طَّاۤىِٕفَةٌ ۚفَاَيَّدْنَا الَّذِيْنَ اٰمَنُوْا عَلٰى عَدُوِّهِمْ فَاَصْبَحُوْا ظَاهِرِيْنَ ࣖ ",
+		"sura_id": 61,
+		"juz_id": 28,
+		"page_number": 552,
+		"translation_aya_text": "Wahai orang-orang yang beriman! Jadilah kamu penolong-penolong (agama) Allah sebagaimana Isa putra Maryam telah berkata kepada pengikut-pengikutnya yang setia, “Siapakah yang akan menjadi penolong-penolongku (untuk menegakkan agama) Allah?” Pengikut-pengikutnya yang setia itu berkata, “Kamilah penolong-penolong (agama) Allah,” lalu segolongan dari Bani Israil beriman dan segolongan (yang lain) kafir; lalu Kami berikan kekuatan ke-pada orang-orang yang beriman terhadap musuh-musuh mereka, sehingga mereka menjadi orang-orang yang menang. ",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 0,
+				"end": 3
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 39,
+				"end": 42
+			},
+			{
+				"class": "ikhfa",
+				"start": 46,
+				"end": 50
+			},
+			{
+				"class": "qalqalah",
+				"start": 83,
+				"end": 84
+			},
+			{
+				"class": "ikhfa",
+				"start": 121,
+				"end": 125
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 128,
+				"end": 132
+			},
+			{
+				"class": "ikhfa",
+				"start": 180,
+				"end": 184
+			},
+			{
+				"class": "madd-wajib",
+				"start": 210,
+				"end": 213
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 217,
+				"end": 222
+			},
+			{
+				"class": "iqlab",
+				"start": 223,
+				"end": 225
+			},
+			{
+				"class": "iqlab",
+				"start": 226,
+				"end": 228
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 231,
+				"end": 235
+			},
+			{
+				"class": "madd-wajib",
+				"start": 241,
+				"end": 243
+			},
+			{
+				"class": "madd-wajib",
+				"start": 264,
+				"end": 267
+			},
+			{
+				"class": "ikhfa",
+				"start": 271,
+				"end": 273
+			},
+			{
+				"class": "ikhfa",
+				"start": 274,
+				"end": 276
+			},
+			{
+				"class": "qalqalah",
+				"start": 282,
+				"end": 283
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 348,
+				"end": 350
+			}
+		]
+	}
+]

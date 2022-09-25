@@ -1,0 +1,169 @@
+[
+	{
+		"aya_id": 6180,
+		"aya_number": 1,
+		"aya_text": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍۙ",
+		"sura_id": 104,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "Celakalah bagi setiap pengumpat dan pencela,",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 4,
+				"end": 9
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 22,
+				"end": 27
+			}
+		]
+	},
+	{
+		"aya_id": 6181,
+		"aya_number": 2,
+		"aya_text": " ۨالَّذِيْ جَمَعَ مَالًا وَّعَدَّدَهٗۙ",
+		"sura_id": 104,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "yang mengumpulkan harta dan menghitung-hitungnya,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 21,
+				"end": 23
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 24,
+				"end": 26
+			}
+		]
+	},
+	{
+		"aya_id": 6182,
+		"aya_number": 3,
+		"aya_text": "يَحْسَبُ اَنَّ مَالَهٗٓ اَخْلَدَهٗۚ",
+		"sura_id": 104,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 11,
+				"end": 13
+			},
+			{
+				"class": "madd-jaiz",
+				"start": 20,
+				"end": 24
+			}
+		]
+	},
+	{
+		"aya_id": 6183,
+		"aya_number": 4,
+		"aya_text": "كَلَّا لَيُنْۢبَذَنَّ فِى الْحُطَمَةِۖ",
+		"sura_id": 104,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah.",
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 11,
+				"end": 13
+			},
+			{
+				"class": "iqlab",
+				"start": 13,
+				"end": 15
+			},
+			{
+				"class": "ghunnah",
+				"start": 18,
+				"end": 20
+			}
+		]
+	},
+	{
+		"aya_id": 6184,
+		"aya_number": 5,
+		"aya_text": "وَمَآ اَدْرٰىكَ مَا الْحُطَمَةُ ۗ",
+		"sura_id": 104,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "Dan tahukah kamu apakah (neraka) Hutamah itu?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
+	},
+	{
+		"aya_id": 6185,
+		"aya_number": 6,
+		"aya_text": "نَارُ اللّٰهِ الْمُوْقَدَةُۙ",
+		"sura_id": 104,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "(Yaitu) api  (azab) Allah yang dinyalakan,",
+		"tajweed": []
+	},
+	{
+		"aya_id": 6186,
+		"aya_number": 7,
+		"aya_text": "الَّتِيْ تَطَّلِعُ عَلَى الْاَفْـِٕدَةِۗ",
+		"sura_id": 104,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "yang (membakar) sampai ke hati.",
+		"tajweed": []
+	},
+	{
+		"aya_id": 6187,
+		"aya_number": 8,
+		"aya_text": "اِنَّهَا عَلَيْهِمْ مُّؤْصَدَةٌۙ",
+		"sura_id": 104,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "Sungguh, api itu ditutup rapat atas (diri) mereka,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 4
+			},
+			{
+				"class": "idgham-mimi",
+				"start": 17,
+				"end": 22
+			}
+		]
+	},
+	{
+		"aya_id": 6188,
+		"aya_number": 9,
+		"aya_text": "فِيْ عَمَدٍ مُّمَدَّدَةٍ ࣖ",
+		"sura_id": 104,
+		"juz_id": 30,
+		"page_number": 601,
+		"translation_aya_text": "(sedang mereka itu) diikat pada tiang-tiang yang panjang.",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 9,
+				"end": 14
+			}
+		]
+	}
+]

@@ -1,0 +1,354 @@
+[
+	{
+		"aya_id": 6107,
+		"aya_number": 1,
+		"aya_text": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 2,
+				"end": 3
+			}
+		]
+	},
+	{
+		"aya_id": 6108,
+		"aya_number": 2,
+		"aya_text": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Dia telah menciptakan manusia dari segumpal darah.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 12,
+				"end": 16
+			}
+		]
+	},
+	{
+		"aya_id": 6109,
+		"aya_number": 3,
+		"aya_text": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Bacalah, dan Tuhanmulah Yang Mahamulia,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 2,
+				"end": 3
+			}
+		]
+	},
+	{
+		"aya_id": 6110,
+		"aya_number": 4,
+		"aya_text": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Yang mengajar (manusia) dengan pena.",
+		"tajweed": []
+	},
+	{
+		"aya_id": 6111,
+		"aya_number": 5,
+		"aya_text": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Dia mengajarkan manusia apa yang tidak diketahuinya.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 13,
+				"end": 17
+			}
+		]
+	},
+	{
+		"aya_id": 6112,
+		"aya_number": 6,
+		"aya_text": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Sekali-kali tidak! Sungguh, manusia itu benar-benar melampaui batas,",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 5,
+				"end": 8
+			},
+			{
+				"class": "ghunnah",
+				"start": 10,
+				"end": 12
+			},
+			{
+				"class": "ikhfa",
+				"start": 19,
+				"end": 23
+			},
+			{
+				"class": "qalqalah",
+				"start": 31,
+				"end": 32
+			}
+		]
+	},
+	{
+		"aya_id": 6113,
+		"aya_number": 7,
+		"aya_text": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "apabila melihat dirinya serba cukup.",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 2,
+				"end": 7
+			}
+		]
+	},
+	{
+		"aya_id": 6114,
+		"aya_number": 8,
+		"aya_text": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Sungguh, hanya kepada Tuhanmulah tempat kembali(mu).",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 4
+			},
+			{
+				"class": "qalqalah",
+				"start": 25,
+				"end": 26
+			}
+		]
+	},
+	{
+		"aya_id": 6115,
+		"aya_number": 9,
+		"aya_text": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Bagaimana pendapatmu tentang orang yang melarang?",
+		"tajweed": []
+	},
+	{
+		"aya_id": 6116,
+		"aya_number": 10,
+		"aya_text": "عَبْدًا اِذَا صَلّٰىۗ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "seorang hamba ketika dia melaksanakan salat,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 2,
+				"end": 3
+			}
+		]
+	},
+	{
+		"aya_id": 6117,
+		"aya_number": 11,
+		"aya_text": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "bagaimana pendapatmu jika dia (yang dilarang salat itu) berada di atas kebenaran (petunjuk),",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 13,
+				"end": 18
+			}
+		]
+	},
+	{
+		"aya_id": 6118,
+		"aya_number": 12,
+		"aya_text": "اَوْ اَمَرَ بِالتَّقْوٰىۗ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "atau dia menyuruh bertakwa (kepada Allah)?",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 19,
+				"end": 20
+			}
+		]
+	},
+	{
+		"aya_id": 6119,
+		"aya_number": 13,
+		"aya_text": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Bagaimana pendapatmu jika dia (yang melarang) itu mendustakan dan berpaling?",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 13,
+				"end": 18
+			}
+		]
+	},
+	{
+		"aya_id": 6120,
+		"aya_number": 14,
+		"aya_text": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?",
+		"tajweed": [
+			{
+				"class": "ikhfa-syafawi",
+				"start": 13,
+				"end": 18
+			},
+			{
+				"class": "ghunnah",
+				"start": 20,
+				"end": 22
+			}
+		]
+	},
+	{
+		"aya_id": 6121,
+		"aya_number": 15,
+		"aya_text": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya, (ke dalam neraka),",
+		"tajweed": [
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 12,
+				"end": 17
+			},
+			{
+				"class": "ikhfa",
+				"start": 23,
+				"end": 27
+			},
+			{
+				"class": "iqlab",
+				"start": 41,
+				"end": 43
+			},
+			{
+				"class": "iqlab",
+				"start": 45,
+				"end": 47
+			},
+			{
+				"class": "ghunnah",
+				"start": 50,
+				"end": 52
+			}
+		]
+	},
+	{
+		"aya_id": 6122,
+		"aya_number": 16,
+		"aya_text": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "yaitu) ubun-ubun orang yang mendustakan dan durhaka.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 7,
+				"end": 12
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 22,
+				"end": 23
+			}
+		]
+	},
+	{
+		"aya_id": 6123,
+		"aya_number": 17,
+		"aya_text": "فَلْيَدْعُ نَادِيَهٗۙ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Maka biarlah dia memanggil golongannya (untuk menolongnya),",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 6,
+				"end": 7
+			}
+		]
+	},
+	{
+		"aya_id": 6124,
+		"aya_number": 18,
+		"aya_text": "سَنَدْعُ الزَّبَانِيَةَۙ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "Kelak Kami akan memanggil Malaikat Zabaniyah, (penyiksa orang-orang yang berdosa), ",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 4,
+				"end": 5
+			}
+		]
+	},
+	{
+		"aya_id": 6125,
+		"aya_number": 19,
+		"aya_text": "كَلَّاۗ  لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ ࣖ",
+		"sura_id": 96,
+		"juz_id": 30,
+		"page_number": 597,
+		"translation_aya_text": "sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanlah (dirimu kepada Allah).",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 29,
+				"end": 30
+			},
+			{
+				"class": "qalqalah",
+				"start": 35,
+				"end": 36
+			},
+			{
+				"class": "qalqalah",
+				"start": 41,
+				"end": 42
+			}
+		]
+	}
+]

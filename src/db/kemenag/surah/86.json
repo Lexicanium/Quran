@@ -1,0 +1,341 @@
+[
+	{
+		"aya_id": 5932,
+		"aya_number": 1,
+		"aya_text": "وَالسَّمَاۤءِ وَالطَّارِقِۙ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Demi langit dan yang datang pada malam hari.",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 9,
+				"end": 11
+			}
+		]
+	},
+	{
+		"aya_id": 5933,
+		"aya_number": 2,
+		"aya_text": "وَمَآ اَدْرٰىكَ مَا الطَّارِقُۙ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Dan tahukah kamu apakah yang datang pada malam hari itu?",
+		"tajweed": [
+			{
+				"class": "madd-jaiz",
+				"start": 4,
+				"end": 7
+			},
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			}
+		]
+	},
+	{
+		"aya_id": 5934,
+		"aya_number": 3,
+		"aya_text": "النَّجْمُ الثَّاقِبُۙ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "(yaitu) bintang yang bersinar tajam,",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 4
+			},
+			{
+				"class": "qalqalah",
+				"start": 5,
+				"end": 6
+			}
+		]
+	},
+	{
+		"aya_id": 5935,
+		"aya_number": 4,
+		"aya_text": "اِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌۗ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "setiap orang pasti ada penjaganya.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 2,
+				"end": 7
+			},
+			{
+				"class": "idgham-bilaghunnah",
+				"start": 15,
+				"end": 20
+			},
+			{
+				"class": "ghunnah",
+				"start": 21,
+				"end": 23
+			}
+		]
+	},
+	{
+		"aya_id": 5936,
+		"aya_number": 5,
+		"aya_text": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Maka hendaklah manusia memperhatikan dari apa dia diciptakan.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 6,
+				"end": 10
+			},
+			{
+				"class": "ikhfa",
+				"start": 18,
+				"end": 22
+			},
+			{
+				"class": "ghunnah",
+				"start": 26,
+				"end": 28
+			}
+		]
+	},
+	{
+		"aya_id": 5937,
+		"aya_number": 6,
+		"aya_text": "خُلِقَ مِنْ مَّاۤءٍ دَافِقٍۙ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Dia diciptakan dari air (mani) yang terpancar,",
+		"tajweed": [
+			{
+				"class": "idgham-bighunnah",
+				"start": 9,
+				"end": 14
+			},
+			{
+				"class": "madd-wajib",
+				"start": 15,
+				"end": 17
+			},
+			{
+				"class": "ikhfa",
+				"start": 17,
+				"end": 22
+			}
+		]
+	},
+	{
+		"aya_id": 5938,
+		"aya_number": 7,
+		"aya_text": "يَّخْرُجُ مِنْۢ بَيْنِ الصُّلْبِ وَالتَّرَاۤىِٕبِۗ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "yang keluar dari antara tulang punggung (sulbi) dan tulang dada.",
+		"tajweed": [
+			{
+				"class": "iqlab",
+				"start": 12,
+				"end": 14
+			},
+			{
+				"class": "iqlab",
+				"start": 15,
+				"end": 17
+			},
+			{
+				"class": "madd-wajib",
+				"start": 42,
+				"end": 42
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 42,
+				"end": 47
+			}
+		]
+	},
+	{
+		"aya_id": 5939,
+		"aya_number": 8,
+		"aya_text": "اِنَّهٗ عَلٰى رَجْعِهٖ لَقَادِرٌۗ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Sungguh, Allah benar-benar kuasa untuk mengembalikannya (hidup setelah mati).",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 4
+			},
+			{
+				"class": "qalqalah",
+				"start": 16,
+				"end": 17
+			}
+		]
+	},
+	{
+		"aya_id": 5940,
+		"aya_number": 9,
+		"aya_text": "يَوْمَ تُبْلَى السَّرَاۤىِٕرُۙ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Pada hari ditampakkan segala rahasia,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 9,
+				"end": 10
+			},
+			{
+				"class": "madd-wajib",
+				"start": 22,
+				"end": 22
+			},
+			{
+				"class": "madd-arid-lissukun",
+				"start": 22,
+				"end": 27
+			}
+		]
+	},
+	{
+		"aya_id": 5941,
+		"aya_number": 10,
+		"aya_text": "فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong.",
+		"tajweed": [
+			{
+				"class": "ikhfa",
+				"start": 13,
+				"end": 18
+			},
+			{
+				"class": "idgham-bighunnah",
+				"start": 21,
+				"end": 26
+			}
+		]
+	},
+	{
+		"aya_id": 5942,
+		"aya_number": 11,
+		"aya_text": "وَالسَّمَاۤءِ ذَاتِ الرَّجْعِۙ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Demi langit yang mengandung hujan,",
+		"tajweed": [
+			{
+				"class": "madd-wajib",
+				"start": 9,
+				"end": 11
+			},
+			{
+				"class": "qalqalah",
+				"start": 25,
+				"end": 26
+			}
+		]
+	},
+	{
+		"aya_id": 5943,
+		"aya_number": 12,
+		"aya_text": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "dan bumi yang mempunyai tumbuh-tumbuhan,",
+		"tajweed": [
+			{
+				"class": "qalqalah",
+				"start": 23,
+				"end": 24
+			}
+		]
+	},
+	{
+		"aya_id": 5944,
+		"aya_number": 13,
+		"aya_text": "اِنَّهٗ لَقَوْلٌ فَصْلٌۙ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "sungguh, (Al-Qur'an) itu benar-benar firman pemisah (antara yang hak dan yang batil),",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 4
+			},
+			{
+				"class": "ikhfa",
+				"start": 14,
+				"end": 19
+			}
+		]
+	},
+	{
+		"aya_id": 5945,
+		"aya_number": 14,
+		"aya_text": "وَّمَا هُوَ بِالْهَزْلِۗ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "dan (Al-Qur'an) itu bukanlah sendagurauan.",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5946,
+		"aya_number": 15,
+		"aya_text": "اِنَّهُمْ يَكِيْدُوْنَ كَيْدًاۙ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Sungguh, mereka (orang kafir) merencanakan tipu daya yang jahat.",
+		"tajweed": [
+			{
+				"class": "ghunnah",
+				"start": 2,
+				"end": 4
+			}
+		]
+	},
+	{
+		"aya_id": 5947,
+		"aya_number": 16,
+		"aya_text": "وَّاَكِيْدُ كَيْدًاۖ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Dan Aku pun membuat rencana (tipu daya) yang jitu.",
+		"tajweed": []
+	},
+	{
+		"aya_id": 5948,
+		"aya_number": 17,
+		"aya_text": "فَمَهِّلِ الْكٰفِرِيْنَ اَمْهِلْهُمْ رُوَيْدًا ࣖ ",
+		"sura_id": 86,
+		"juz_id": 30,
+		"page_number": 591,
+		"translation_aya_text": "Karena itu berilah penangguhan kepada orang-orang kafir itu. Berilah mereka itu kesempatan untuk sementara waktu.",
+		"tajweed": []
+	}
+]
