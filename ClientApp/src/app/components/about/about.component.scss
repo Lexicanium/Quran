@@ -1,0 +1,128 @@
+/*
+ * Copyright (c) 2019-2020 Amine Anane. http: //digitalkhatt/license
+ * This file is part of DigitalKhatt.
+ * 
+ * DigitalKhatt is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+
+ * DigitalKhatt is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU Affero General Public License for more details.
+
+ * You should have received a copy of the GNU Affero General Public License
+ * along with DigitalKhatt. If not, see
+ * <https: //www.gnu.org/licenses />.
+*/
+
+:host {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  flex: 0 1 auto;
+  position: relative;
+}
+
+.content {
+  padding: 20px 3rem 2rem;
+  text-align: justify;
+  text-justify: inter-word;
+  flex: 1 1 auto;
+  min-height: 1px;
+  overflow: auto;
+}
+.quran-toolbar {
+  background: white;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.3);
+  flex: 0 1 auto;
+  min-height: 48px;
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: column;
+  width: 100%;
+  margin: 0;
+
+  .quran-toolbar-row {
+    padding: 0 16px 0 0;
+    height: 48px;
+    display: flex;
+    box-sizing: border-box;
+    padding: 0 16px;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    white-space: nowrap;
+  }
+
+  .mat-icon-button {
+    width: 32px;
+  }
+
+  @media (min-width: 992px) {
+    .hamburger.mat-button {
+      min-width: unset;
+      margin: 0 8px 0 0;
+      padding: 0 0 0 0;
+    }
+  }
+}
+
+.full-screen-modal .mat-dialog-container {
+  max-width: none;
+}
+
+.leftnav {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.centernav {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rightnav {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+@font-face {
+  font-family: 'DigitalKhatt';
+  font-style:normal;  
+  src: url("../../../assets/fonts/digitalkhatt.woff") format("woff"),
+       url('../../../assets/fonts/digitalkhatt.otf') format("opentype");
+  font-feature-settings: normal;
+}
+
+@font-face {
+  font-family: 'DigitalKhattCff2';
+  font-style: normal;
+  src: url('../../../assets/fonts/digitalkhatt-cff2.otf') format("opentype");
+}
+
+.digitalkhatt {
+  font-family: "DigitalKhatt";
+  font-size: 16px;
+  line-height: normal;
+}
+
+.digitalkhattvar {
+  font-family: "DigitalKhattCff2";
+  font-size: 20px;
+  line-height: normal;
+  direction: rtl;
+  font-feature-settings: 'jalt';
+  word-spacing: 10px;
+}
