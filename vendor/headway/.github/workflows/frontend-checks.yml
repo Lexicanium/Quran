@@ -1,0 +1,21 @@
+name: Frontend checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    name: Run frontend checks (linting and formatting)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install --global yarn
+      - run: cd web/frontend && yarn install
+      - run: cd web/frontend && yarn lint
+      - run: cd web/frontend && yarn format-check

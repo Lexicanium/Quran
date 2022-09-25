@@ -1,0 +1,23 @@
+{
+  "options": {
+    "paths": {
+      "root": "/data",
+      "styles": "/app/styles",
+      "mbtiles": ""
+    }
+  },
+
+  "styles": {
+    "style": {
+      "style": "/app/styles/style.json"
+    }
+  },
+  "data": {
+    "default": {
+      "mbtiles": "${HEADWAY_AREA}.mbtiles"
+    },
+    "natural_earth": {
+      "mbtiles": "natural_earth.mbtiles"
+    }
+  }
+}
