@@ -1,0 +1,3 @@
+[submodule "vendor/quran-api"]
+	path = vendor/quran-api
+	url = git@github.com:fawazahmed0/quran-api.git
