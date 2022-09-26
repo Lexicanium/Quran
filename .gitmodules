@@ -1,3 +1,4 @@
 [submodule "vendor/quran-api"]
+	ignore = dirty
 	path = vendor/quran-api
 	url = git@github.com:fawazahmed0/quran-api.git
