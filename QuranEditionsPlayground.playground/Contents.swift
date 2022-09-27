@@ -93,14 +93,59 @@ func editionsBy(name:String) -> Edition? {
 }
 
 
+struct EditionDisplayRow: Identifiable {
+    let editionLanguage: String
+    let editionAuthor: String
+    let editionComments: String
+    let editionName: String
+    let ayatText: String
+    let id = UUID()
+
+}
+
+private var editionsDisplayRows = [EditionDisplayRow]()
+
 for editionPath in editions {
     let data = try Data(contentsOf: URL(fileURLWithPath: editionPath))
     let decoder = JSONDecoder()
 
     if let q = try? decoder.decode(Quran.self, from: data) {
         let editionId = URL(fileURLWithPath: editionPath).deletingPathExtension().deletingPathExtension().lastPathComponent
-        print("\(editionsBy(name:editionId)!)")
-        print(q.quran[48])
+        let e = editionsBy(name:editionId)!
+        let a = q.quran[48]
+//        print("\(e)")
+//        print("\(a)")
+        editionsDisplayRows += [EditionDisplayRow(editionLanguage: e.language, editionAuthor: e.author, editionComments: e.comments, editionName: e.name, ayatText: a.text)]
+        
     }
 
 }
+
+
+import SwiftUI
+
+
+
+//
+//editionsDisplayRows = Array(editionsDisplayRows[0...300])
+//print(editionsDisplayRows)
+
+editionsDisplayRows.sort { row1, row2 in
+    return row1.ayatText > row2.ayatText
+}
+
+import PlaygroundSupport
+
+struct ContentView: View {
+    var body: some View {
+        Table(editionsDisplayRows) {
+            TableColumn("Language", value: \.editionLanguage)
+            TableColumn("Author", value: \.editionAuthor)
+//            TableColumn("Comment", value: \.editionComment)
+            TableColumn("Name", value: \.editionName)
+            TableColumn("Text", value: \.ayatText)
+        }
+    }
+}
+
+PlaygroundPage.current.setLiveView(ContentView())
